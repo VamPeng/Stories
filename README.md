@@ -11,6 +11,7 @@
 | 重整化群 | Renormalization Group | 统计物理、量子场论、复杂系统 | [重整化群.md](./重整化群.md) |
 | 激励相容 | Incentive Compatibility | 微观经济学、博弈论、机制设计 | [激励相容.md](./激励相容.md) |
 | FLP 不可能性 | FLP Impossibility | 分布式计算、理论计算机科学 | [FLP不可能性.md](./FLP不可能性.md) |
+| 预测编码 | Predictive Coding | 认知科学、计算神经科学 | [预测编码.md](./预测编码.md) |
 
 ## 文档约定
 
