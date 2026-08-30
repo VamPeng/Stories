@@ -14,6 +14,7 @@
 | 预测编码 | Predictive Coding | 认知科学、计算神经科学 | [预测编码.md](./预测编码.md) |
 | 普莱斯方程 | Price Equation | 进化生物学、数学群体遗传学 | [普莱斯方程.md](./普莱斯方程.md) |
 | 迪昂—奎因论题 | Duhem–Quine Thesis | 科学哲学、认识论 | [迪昂—奎因论题.md](./迪昂—奎因论题.md) |
+| 可选停止定理 | Optional Stopping Theorem | 概率论、随机过程 | [可选停止定理.md](./可选停止定理.md) |
 
 ## 文档约定
 
