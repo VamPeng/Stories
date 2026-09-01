@@ -16,6 +16,7 @@
 | 迪昂—奎因论题 | Duhem–Quine Thesis | 科学哲学、认识论 | [迪昂—奎因论题.md](./迪昂—奎因论题.md) |
 | 可选停止定理 | Optional Stopping Theorem | 概率论、随机过程 | [可选停止定理.md](./可选停止定理.md) |
 | 自组织临界性 | Self-Organized Criticality | 复杂系统、统计物理 | [自组织临界性.md](./自组织临界性.md) |
+| 香农信道容量 | Shannon Channel Capacity | 信息论、通信工程 | [香农信道容量.md](./香农信道容量.md) |
 
 ## 文档约定
 
