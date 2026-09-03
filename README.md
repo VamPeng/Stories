@@ -18,6 +18,7 @@
 | 自组织临界性 | Self-Organized Criticality | 复杂系统、统计物理 | [自组织临界性.md](./自组织临界性.md) |
 | 香农信道容量 | Shannon Channel Capacity | 信息论、通信工程 | [香农信道容量.md](./香农信道容量.md) |
 | 朗道尔原理 | Landauer's Principle | 信息热力学、计算物理 | [朗道尔原理.md](./朗道尔原理.md) |
+| 阿罗不可能性定理 | Arrow's Impossibility Theorem | 社会选择理论、福利经济学 | [阿罗不可能性定理.md](./阿罗不可能性定理.md) |
 
 ## 文档约定
 
