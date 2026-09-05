@@ -20,6 +20,7 @@
 | 朗道尔原理 | Landauer's Principle | 信息热力学、计算物理 | [朗道尔原理.md](./朗道尔原理.md) |
 | 阿罗不可能性定理 | Arrow's Impossibility Theorem | 社会选择理论、福利经济学 | [阿罗不可能性定理.md](./阿罗不可能性定理.md) |
 | 漂移扩散模型 | Drift Diffusion Model | 认知科学、计算神经科学 | [漂移扩散模型.md](./漂移扩散模型.md) |
+| 误差阈值 | Error Threshold | 分子进化、准种理论 | [误差阈值.md](./误差阈值.md) |
 
 ## 文档约定
 
