@@ -22,6 +22,7 @@
 | 漂移扩散模型 | Drift Diffusion Model | 认知科学、计算神经科学 | [漂移扩散模型.md](./漂移扩散模型.md) |
 | 误差阈值 | Error Threshold | 分子进化、准种理论 | [误差阈值.md](./误差阈值.md) |
 | 古德曼的新归纳之谜 | Goodman's New Riddle of Induction | 科学哲学、认识论 | [古德曼的新归纳之谜.md](./古德曼的新归纳之谜.md) |
+| 巴拿赫不动点定理 | Banach Fixed-Point Theorem | 数学分析、泛函分析 | [巴拿赫不动点定理.md](./巴拿赫不动点定理.md) |
 
 ## 文档约定
 
