@@ -23,6 +23,7 @@
 | 误差阈值 | Error Threshold | 分子进化、准种理论 | [误差阈值.md](./误差阈值.md) |
 | 古德曼的新归纳之谜 | Goodman's New Riddle of Induction | 科学哲学、认识论 | [古德曼的新归纳之谜.md](./古德曼的新归纳之谜.md) |
 | 巴拿赫不动点定理 | Banach Fixed-Point Theorem | 数学分析、泛函分析 | [巴拿赫不动点定理.md](./巴拿赫不动点定理.md) |
+| 柯尔莫哥洛夫复杂度 | Kolmogorov Complexity | 算法信息论、理论计算机科学 | [柯尔莫哥洛夫复杂度.md](./柯尔莫哥洛夫复杂度.md) |
 
 ## 文档约定
 
