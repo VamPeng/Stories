@@ -24,6 +24,7 @@
 | 古德曼的新归纳之谜 | Goodman's New Riddle of Induction | 科学哲学、认识论 | [古德曼的新归纳之谜.md](./古德曼的新归纳之谜.md) |
 | 巴拿赫不动点定理 | Banach Fixed-Point Theorem | 数学分析、泛函分析 | [巴拿赫不动点定理.md](./巴拿赫不动点定理.md) |
 | 柯尔莫哥洛夫复杂度 | Kolmogorov Complexity | 算法信息论、理论计算机科学 | [柯尔莫哥洛夫复杂度.md](./柯尔莫哥洛夫复杂度.md) |
+| 信息级联 | Information Cascade | 信息经济学、社会学习 | [信息级联.md](./信息级联.md) |
 
 ## 文档约定
 
