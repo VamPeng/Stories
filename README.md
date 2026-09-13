@@ -28,6 +28,7 @@
 | 涨落—耗散定理 | Fluctuation–Dissipation Theorem | 统计物理、非平衡物理 | [涨落—耗散定理.md](./涨落—耗散定理.md) |
 | 中性进化理论 | Neutral Theory of Molecular Evolution | 分子进化、群体遗传学 | [中性进化理论.md](./中性进化理论.md) |
 | 必要多样性定律 | Law of Requisite Variety | 控制论、复杂系统 | [必要多样性定律.md](./必要多样性定律.md) |
+| 信号检测论 | Signal Detection Theory | 认知科学、心理物理学 | [信号检测论.md](./信号检测论.md) |
 
 ## 文档约定
 
